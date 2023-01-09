@@ -8,3 +8,13 @@ function songChanger(){
     
 }
 
+function mainMenuMode(){
+
+}
+function songSelectionMode(){
+
+}
+function gameMode(){
+    
+}
+
